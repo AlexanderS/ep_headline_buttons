@@ -1,0 +1,32 @@
+.buttonicon-headline {
+    width: 16px;
+    height: 16px;
+    background-image: url('../../static/img/etherpad_lite_headline_icons.png');
+    background-repeat: no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.buttonicon-headline-h1 {
+    background-position: 0px 1px;
+}
+
+.buttonicon-headline-h2 {
+    background-position: 0px -15px;
+}
+
+.buttonicon-headline-h3 {
+    background-position: 0px -31px;
+}
+
+.buttonicon-headline-h4 {
+    background-position: 0px -47px;
+}
+
+.buttonicon-headline-h5 {
+    background-position: 0px -63px;
+}
+
+.buttonicon-headline-h6 {
+    background-position: 0px -79px;
+}

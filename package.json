@@ -1,0 +1,16 @@
+{
+  "description": "Adds buttons for headlines to Etherpad Lite.",
+  "name": "ep_headline_buttons",
+  "version": "0.1.0",
+  "author": "Alexander Sulfrian <alexander@sulfrian.net>",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "homepage": "https://github.com/AlexanderS/ep_headline_buttons",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexanderS/ep_headline_buttons.git"
+  }
+}
